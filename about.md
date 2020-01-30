@@ -1,4 +1,14 @@
-# About
+---
+layout: about
+title: 关于
+reward: false
+---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+### Minimalism
 
+---
+
+[Minimalism] 是一款基于 [Jekyll] 为极简主义者打造的极简主题。
+
+[Minimalism]: https://github.com/showzeng/Minimalism
+[Jekyll]: https://jekyllrb.com/
